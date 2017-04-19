@@ -21,69 +21,6 @@ To give you a starting point, there are a grand total of increasing and decreasi
 |12952  | 1000000
 
 This means that your function will have to behave like this:
-```python
-total_inc_dec(0)==1
-total_inc_dec(1)==10
-total_inc_dec(2)==100
-total_inc_dec(3)==475
-total_inc_dec(4)==1675
-total_inc_dec(5)==4954
-total_inc_dec(6)==12952
-```
-```javascript
-totalIncDec(0)==1
-totalIncDec(1)==10
-totalIncDec(2)==100
-totalIncDec(3)==475
-totalIncDec(4)==1675
-totalIncDec(5)==4954
-totalIncDec(6)==12952
-```
-```ruby
-total_inc_dec(0)==1
-total_inc_dec(1)==10
-total_inc_dec(2)==100
-total_inc_dec(3)==475
-total_inc_dec(4)==1675
-total_inc_dec(5)==4954
-total_inc_dec(6)==12952
-```
-```haskell
-totalIncDec 0 `shouldBe` 1
-totalIncDec 1 `shouldBe` 10
-totalIncDec 2 `shouldBe` 100
-totalIncDec 3 `shouldBe` 475
-totalIncDec 4 `shouldBe` 1675
-totalIncDec 5 `shouldBe` 4954
-totalIncDec 6 `shouldBe` 12952
-```
-```clojure
-total-inc-dec 0 => 1
-total-inc-dec 1 => 10
-total-inc-dec 2 => 100
-total-inc-dec 3 => 475
-total-inc-dec 4 => 1675
-total-inc-dec 5 => 4954
-total-inc-dec 6 => 12952
-```
-```csharp
-TotalIncDec(0) == 1
-TotalIncDec(1) == 10
-TotalIncDec(2) == 100
-TotalIncDec(3) == 475
-TotalIncDec(4) == 1675
-TotalIncDec(5) == 4954
-TotalIncDec(6) == 12952
-```
-```coffeescript
-totalIncDec(0)==1
-totalIncDec(1)==10
-totalIncDec(2)==100
-totalIncDec(3)==475
-totalIncDec(4)==1675
-totalIncDec(5)==4954
-totalIncDec(6)==12952
-```
 ```java
 totalIncDec(0)==1
 totalIncDec(1)==10
