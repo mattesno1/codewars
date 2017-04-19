@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-/** https://www.codewars.com/kata/range-extraction/solutions/java */
+/** https://www.codewars.com/kata/range-extraction/ */
 class Solution {
 
 		public static String rangeExtraction(int[] arr) {
