@@ -1,4 +1,5 @@
 # [Decompose a number](https://www.codewars.com/kata/55ec80d40d5de30631000025)
+[-> my implementation](NbInSum.java)
 
 Decompose a number `num` into an array (tuple in Haskell, array of arrays `long[][]` in C# or Java) of the form `[[k1,k2,k3...], r]`,  `([k1,k2,k3...], r)` in Haskell, `[[k1,k2,k3...], [r]]` in C# or Java) such that:
 

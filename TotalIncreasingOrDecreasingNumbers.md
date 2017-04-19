@@ -1,4 +1,5 @@
 # [Total increasing or decreasing numbers up to a power of 10](https://www.codewars.com/kata/55b195a69a6cc409ba000053)
+[-> my implementation](TotalIncreasingOrDecreasingNumbers.java)
 
 Let's define `increasing` numbers as the numbers whose digits, read from left to right, are never less than the previous ones: 234559 is an example of increasing number.
 

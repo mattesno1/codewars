@@ -1,4 +1,5 @@
 # [Bundesliga 1. Spieltag - First Match Day](https://www.codewars.com/kata/57c178e16662d0d932000120)
+[-> my implementation](Bundesliga.java)
 
 On 08/26/2016 (26.08.2016) the German Fussball-Bundesliga (national soccer league) started another new season!
 

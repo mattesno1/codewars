@@ -1,4 +1,5 @@
-# [Strings Mix](5629db57620258aa9d000014)
+# [Strings Mix](http://www.codewars.com/kata/5629db57620258aa9d000014)
+[-> my implementation](Mixing.java)
 
 Given two strings s1 and s2, we want to visualize how different the two strings are.
 We will only take into account the *lowercase* letters (a to z).
