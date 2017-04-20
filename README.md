@@ -5,7 +5,7 @@ A selection of my solved katas from [codewars.com](https://www.codewars.com/user
 
 ## My Katas
 
-- [BrainLuck (Branfuck Interpreter)](BrainLuck.md)
+- [BrainLuck (Brainfuck Interpreter)](BrainLuck.md)
 - [Bundesliga](Bundesliga.md)
 - [CaesarTwo](CaesarTwo.md)
 - [The Wrong-Way Cow](Dinglemouse.md)
