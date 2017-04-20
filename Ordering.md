@@ -10,36 +10,12 @@ Also, you should validate that the given string is not empty or null. If so, the
 ```java
 "Invalid String!";
 ```
-```python
-"Invalid String!"
-```
-```ruby
-"Invalid String!"
-```
-```javascript
-"Invalid String!"
-```
 
 <h3>Examples</h3>
 ```java
 new Ordering().orderWord("hello world") => " dehllloorw"
 new Ordering().orderWord("bobby") => "bbboy"
 new Ordering().orderWord("") => "Invalid String!"
-```
-```python
-order_word("hello world") => " dehllloorw"
-order_word("bobby") => "bbboy"
-order_word("") => "Invalid String!"
-```
-```ruby
-order_word("hello world") => " dehllloorw"
-order_word("bobby") => "bbboy"
-order_word("") => "Invalid String!"
-```
-```javascript
-orderWord("hello world") => " dehllloorw"
-orderWord("bobby") => "bbboy"
-order_word("") => "Invalid String!"
 ```
 
 <h4>Notes</h4>
