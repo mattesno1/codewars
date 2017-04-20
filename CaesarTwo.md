@@ -1,5 +1,5 @@
 # [Second Variation on Caesar Cipher](https://www.codewars.com/kata/55084d3898b323f0aa000546)
-[-> my implementation](CeasarTwo.java)
+[-> my implementation](CaesarTwo.java)
 
 In this country soldiers are poor but they need a certain level of secrecy
 for their communications so, though they do not know Caesar cypher, they reinvent it
