@@ -12,6 +12,7 @@ Also, you should validate that the given string is not empty or null. If so, the
 ```
 
 <h3>Examples</h3>
+
 ```java
 new Ordering().orderWord("hello world") => " dehllloorw"
 new Ordering().orderWord("bobby") => "bbboy"
