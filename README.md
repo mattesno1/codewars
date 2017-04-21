@@ -16,3 +16,4 @@ A selection of my solved katas from [codewars.com](https://www.codewars.com/user
 - [Range Extraction](RangeExtraction.md)
 - [Stop gninnipS My sdroW!](SpinWords.md)
 - [Total increasing or decreasing numbers](TotalIncreasingOrDecreasingNumbers.md)
+- [Recover a secret string from random triplets](SecretDetective.md)
